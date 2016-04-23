@@ -33,8 +33,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="AllVideoInformationLoadedEventArgs.cs" />
-    <Compile Include="ISYMMSettings.cs" />
-    <Compile Include="IYouTubeVideo.cs" />
     <Compile Include="SYMMSettings.cs" />
     <Compile Include="VideoInformationLoadedEventArgs.cs" />
     <Compile Include="YouTubeVideo.cs" />
